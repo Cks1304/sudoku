@@ -15,18 +15,6 @@ The **Sudoku Game** challenges players with a 9x9 grid divided into nine 3x3 sub
 - **CSS**: For styling to enhance the visual appeal and user experience.
 - **JavaScript**: For implementing the Sudoku puzzle logic and game interactions.
 
-## 🚀 How to Play
-
-1. Clone the repository:'https://github.com/nidhiupman568/SUDOKU-GAME.git'
-  
-2. Open `index.html` in your web browser to start playing the Sudoku Game.
-
-## 📸 Screenshots (Gameplay)
-
-Here’s a preview of the Sudoku Game in action:
-
-![SUDOKU](https://github.com/nidhiupman568/SUDOKU-GAME/assets/130860182/bd2bf00e-c173-41b6-96a4-a9a98dd76516)
-
 
 
 
